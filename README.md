@@ -14,3 +14,7 @@ This report delves into Formula 1 Race Intelligence, providing visual exploratio
 - `data/`: Sample CSV datasets (`driver_performance.csv`, `constructor_standings.csv`, `dnf_reliability.csv`).
 - `tableau/`: Tableau workbook configuration.
 - `index.html`: Interactive web demo dashboard for GitHub Pages.
+## Demo Video
+https://drive.google.com/file/d/1dqUXml-oJxC5q1bLG8NRqO8KM4NHXJZ6/view?usp=drive_link
+## Demo URL
+https://dhananjay-amv.github.io/F1-race-intelligence-analysis-project/
